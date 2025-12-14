@@ -34,7 +34,7 @@ Modded population files can be found in a `mods` folder in the same directory yo
    ```
    hatch env create
    ```
-1. Run the application to test:
+1. Run the application to test: 
    ```
    hatch run apcgui
    ```
